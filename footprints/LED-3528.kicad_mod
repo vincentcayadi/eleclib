@@ -33,8 +33,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp fc073cc4-5bcc-4ce8-a2c5-23c6bf9440fb))
   (fp_line (start 1.7365 1.4) (end 1.7365 -1.4)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 90367275-0fe3-40ea-8e26-5d8259b666c7))
-  (pad "1" smd roundrect (at 1.82775 0) (size 1.9325 3.048) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.188679) (tstamp b97d386a-99c2-4bd3-bc9b-665f559ac155))
-  (pad "2" smd roundrect (at -1.84125 0) (size 1.9055 3.048) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.188679) (tstamp a7aa0e89-85bb-4c93-a662-93243bb2d49b))
+  (pad "1" smd roundrect (at -1.84125 0) (size 1.9055 3.048) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp a7aa0e89-85bb-4c93-a662-93243bb2d49b))
+  (pad "2" smd roundrect (at 1.82775 0) (size 1.9325 3.048) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b97d386a-99c2-4bd3-bc9b-665f559ac155))
   (model "C:/Users/vince/OneDrive/Documents/KiCad/7.0/3dmodels/LED3528SMD..step"
     (offset (xyz -1.5 -1.4 0))
     (scale (xyz 1 1 1))

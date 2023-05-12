@@ -33,14 +33,6 @@
     (symbol "STP75NF75_0_1"
       (polyline
         (pts
-          (xy 2.794 0)
-          (xy 0 0)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy 2.794 1.905)
           (xy 2.794 -1.905)
         )
@@ -142,6 +134,10 @@
       )
     )
     (symbol "STP75NF75_1_1"
+      (pin passive line (at 0 0 0) (length 2.8)
+        (name "" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
       (pin passive line (at 5.08 -5.08 90) (length 2.54)
         (name "" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
