@@ -61,10 +61,6 @@
   (pad "JP2_4" thru_hole circle (at 1.27 -8.89) (size 1.778 1.778) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 5df6dc3f-498b-4cb5-8a5e-5fab72fc2183))
   (pad "JP2_5" thru_hole circle (at 3.81 -8.89) (size 1.778 1.778) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ef8e1537-aaa1-4995-8aa8-364784607585))
   (pad "JP2_6" thru_hole circle (at 6.35 -8.89) (size 1.778 1.778) (drill 1) (layers "*.Cu" "*.Mask") (tstamp dd8c66c7-e268-45ae-80d9-7d85fe2d738c))
-  (pad "P1" thru_hole circle (at -10.16 -8.89) (size 3.2 3.2) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 05b5437b-1521-4493-ab66-367828115f69))
-  (pad "P2" thru_hole circle (at 10.16 -8.89) (size 3.2 3.2) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp e93dbf62-f7fb-4460-8973-d7d079106998))
-  (pad "P3" thru_hole circle (at -10.16 8.89) (size 3.2 3.2) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp 4800284b-5d01-4289-8ef2-1411b5cfd12b))
-  (pad "P4" thru_hole circle (at 10.16 8.89) (size 3.2 3.2) (drill 2.5) (layers "*.Cu" "*.Mask") (tstamp b3f181d9-13d6-4028-9a7e-104536107ef8))
   (model "C:/Users/vince/OneDrive/Documents/KiCad/7.0/3dmodels/Adafruit BNO085.step"
     (offset (xyz 0 0 10))
     (scale (xyz 1 1 1))

@@ -6,7 +6,7 @@
     (property "Value" "4754" (at -10.16 -12.7 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "MODULE_4754" (at 0 -3.81 0)
+    (property "Footprint" "footprints:bno085" (at 0 -3.81 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 0 -3.81 0)

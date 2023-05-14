@@ -1,4 +1,4 @@
-(footprint "0526101433" (version 20221018) (generator pcbnew)
+(footprint "526101433" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "0526101433-1")
   (tags "Connector")
@@ -7,7 +7,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp ffca98ee-2845-4d61-8b36-ce6c4e4e176f)
   )
-  (fp_text value "0526101433" (at 0 -0.525) (layer "F.SilkS") hide
+  (fp_text value "526101433" (at 0 -0.525) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp b3f47d8e-ff50-460d-93f9-31cfe3409c98)
   )
